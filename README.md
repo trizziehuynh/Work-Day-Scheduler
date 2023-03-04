@@ -39,7 +39,7 @@ The following animation demonstrates the application functionality:
 
 
 
-![The URL of the application](https://trizziehuynh.github.io/Work-Day-Scheduler/)
+[The URL of the application](https://trizziehuynh.github.io/Work-Day-Scheduler/)
 
 
-![The github URL of the application](https://github.com/trizziehuynh/Work-Day-Scheduler)
+[The github URL of the application](https://github.com/trizziehuynh/Work-Day-Scheduler)
